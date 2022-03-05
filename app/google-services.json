@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476796641863",
+    "project_id": "quizzworld-4607f",
+    "storage_bucket": "quizzworld-4607f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476796641863:android:03870d52c8d3d421370762",
+        "android_client_info": {
+          "package_name": "com.example.quizzworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476796641863-knosju9of0m2k3grdvo0eo2nf9rug2d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDal2bB2z3fFwxrwQIBw_TgYrI-PoaVz7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476796641863-knosju9of0m2k3grdvo0eo2nf9rug2d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
